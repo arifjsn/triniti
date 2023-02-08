@@ -1,1 +1,102 @@
-[{"id":1,"nama":"PTP-BKO","url":"https:\/\/trinitiland.dynns.com:9000\/"},{"id":2,"nama":"PTP-HBP","url":"https:\/\/trinitiland.dynns.com:8000\/"},{"id":3,"nama":"PTP-NSR","url":"https:\/\/trinitiland.dynns.com:8004\/"},{"id":4,"nama":"PTP-KOL","url":"https:\/\/trinitiland.dynns.com:7000\/"},{"id":5,"nama":"TMS-KOL","url":"https:\/\/trinitiland.dynns.com:7001\/"},{"id":6,"nama":"TPG-BKO","url":"https:\/\/trinitiland.dynns.com:9001\/"},{"id":7,"nama":"STC-BKO","url":"https:\/\/trinitiland.dynns.com:9002\/"},{"id":8,"nama":"TMS-BKO","url":"https:\/\/trinitiland.dynns.com:9003\/"},{"id":9,"nama":"TMS-COB","url":"https:\/\/trinitiland.dynns.com:8001\/"},{"id":10,"nama":"TMG-BKO","url":"https:\/\/trinitiland.dynns.com:9004\/"},{"id":11,"nama":"TMG-CMP","url":"https:\/\/trinitiland.dynns.com:8002\/"},{"id":12,"nama":"PTB-BKO","url":"https:\/\/trinitiland.dynns.com:9005\/"},{"id":13,"nama":"PTB-MAB","url":"https:\/\/trinitiland.dynns.com:8003\/"},{"id":14,"nama":"TMI-BKO","url":"https:\/\/trinitiland.dynns.com:9006\/"},{"id":15,"nama":"TMI-LBJ","url":"https:\/\/trinitiland.dynns.com:8005\/"},{"id":16,"nama":"TGP-BKO","url":"https:\/\/trinitiland.dynns.com:9007\/"},{"id":17,"nama":"TGP-SQA","url":"https:\/\/trinitiland.dynns.com:8006\/"},{"id":18,"nama":"JTS-BKO","url":"https:\/\/trinitiland.dynns.com:9008\/"},{"id":19,"nama":"JTS-SQA","url":"https:\/\/trinitiland.dynns.com:8007\/"}]
+[
+    {
+        "id": 0,
+        "nama": "Cloud",
+        "url": "https:\/\/trinitiland.ddns.net:1888\/owncloud\/"
+    },
+    {
+        "id": 1,
+        "nama": "PTP-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9000\/"
+    },
+    {
+        "id": 2,
+        "nama": "PTP-HBP",
+        "url": "https:\/\/trinitiland.dynns.com:8000\/"
+    },
+    {
+        "id": 3,
+        "nama": "PTP-NSR",
+        "url": "https:\/\/trinitiland.dynns.com:8004\/"
+    },
+    {
+        "id": 4,
+        "nama": "PTP-KOL",
+        "url": "https:\/\/trinitiland.dynns.com:7000\/"
+    },
+    {
+        "id": 5,
+        "nama": "TMS-KOL",
+        "url": "https:\/\/trinitiland.dynns.com:7001\/"
+    },
+    {
+        "id": 6,
+        "nama": "TPG-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9001\/"
+    },
+    {
+        "id": 7,
+        "nama": "STC-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9002\/"
+    },
+    {
+        "id": 8,
+        "nama": "TMS-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9003\/"
+    },
+    {
+        "id": 9,
+        "nama": "TMS-COB",
+        "url": "https:\/\/trinitiland.dynns.com:8001\/"
+    },
+    {
+        "id": 10,
+        "nama": "TMG-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9004\/"
+    },
+    {
+        "id": 11,
+        "nama": "TMG-CMP",
+        "url": "https:\/\/trinitiland.dynns.com:8002\/"
+    },
+    {
+        "id": 12,
+        "nama": "PTB-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9005\/"
+    },
+    {
+        "id": 13,
+        "nama": "PTB-MAB",
+        "url": "https:\/\/trinitiland.dynns.com:8003\/"
+    },
+    {
+        "id": 14,
+        "nama": "TMI-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9006\/"
+    },
+    {
+        "id": 15,
+        "nama": "TMI-LBJ",
+        "url": "https:\/\/trinitiland.dynns.com:8005\/"
+    },
+    {
+        "id": 16,
+        "nama": "TGP-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9007\/"
+    },
+    {
+        "id": 17,
+        "nama": "TGP-SQA",
+        "url": "https:\/\/trinitiland.dynns.com:8006\/"
+    },
+    {
+        "id": 18,
+        "nama": "JTS-BKO",
+        "url": "https:\/\/trinitiland.dynns.com:9008\/"
+    },
+    {
+        "id": 19,
+        "nama": "JTS-SQA",
+        "url": "https:\/\/trinitiland.dynns.com:8007\/"
+    }
+]
